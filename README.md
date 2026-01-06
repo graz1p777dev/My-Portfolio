@@ -137,15 +137,6 @@ const TEXTS = {
 };
 ```
 
-Then use in components:
-
-```typescript
-const t = useT();
-{
-  t('English text you want to translate');
-}
-```
-
 ### 7. **Update Featured Project**
 
 In `CONFIG` object:
