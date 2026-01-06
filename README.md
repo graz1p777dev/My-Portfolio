@@ -172,8 +172,8 @@ githubRepoFeatured: {
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/grazip777/Portfolio-graz1p.git
-cd my-portfolio
+git clone https://github.com/graz1p777dev/My-Portfolio.git
+cd My-Portfolio
 
 # 2. Install dependencies
 npm install
@@ -439,7 +439,7 @@ This project is licensed under **CC BY-NC 4.0**.
 
 ```
 © 2026 Алихан Торебеков
-GitHub: https://github.com/graz1p777
+GitHub: https://github.com/graz1p777dev
 ```
 
 ---
