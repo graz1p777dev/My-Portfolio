@@ -17,10 +17,10 @@ const CONFIG = {
   codewarsUsername: 'graz1p777dev',
   githubUsername: 'graz1p777dev',
   githubRepoFeatured: {
-    name: 'My Django Starter',
+    name: 'Stroy kg',
     description:
-      'A Dockerized Django API template with JWT auth, PostgreSQL, pytest, and GitHub Actions.',
-    repoUrl: 'https://github.com/graz1p/django-starter',
+      'A Dockerized Django API template with JWT auth, PostgreSQL, pytest, and GitHub Actions.(this project is private)',
+    repoUrl: 'https://github.com/graz1p/stroy-kg',
     topics: ['Django', 'DRF', 'PostgreSQL', 'Docker', 'Pytest'],
   },
   contacts: {
@@ -1271,6 +1271,16 @@ export default function Portfolio() {
                 className="text-teal-300 hover:underline"
               >
                 youtube.com/@graz1p777dev
+              </a>
+            </div>
+            <div className="text-sm text-zinc-400">
+              <a
+                href="https://github.com/graz1p777dev/My-Portfolio"
+                target="_blank"
+                rel="noreferrer"
+                className="text-teal-300 hover:underline"
+              >
+                This portfolio
               </a>
             </div>
           </div>

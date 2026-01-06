@@ -137,6 +137,7 @@ const TEXTS = {
 };
 ```
 
+
 ### 7. **Update Featured Project**
 
 In `CONFIG` object:
